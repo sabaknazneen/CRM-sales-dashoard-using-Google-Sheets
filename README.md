@@ -19,9 +19,7 @@ Key Features
 Data Analysis:
 
 Processed 8,800 records across 18 fields from CRM data in Google Sheets.
-
 Conducted QA and merged sales pipeline data with the sales team table for comprehensive analysis.
-
 Built pivot tables to analyze:
   1)Opportunities won by quarter.
   2)Percentage breakdown of won vs. lost opportunities.
@@ -33,13 +31,9 @@ Built pivot tables to analyze:
 Dashboard Design:
 
 Created Scorecard Visuals: Compared opportunities won for the most recent quarter (2017-Q4) with the previous quarter (2017-Q3).
-
 Pie Chart: Showed the percentage of deals won and lost in the latest quarter.
-
 Bar Chart: Highlighted opportunities won by sales agents in the most recent quarter.
-
 Added Slicers: Enabled filtering by "regional office" and "manager."
-
 Organized visuals into a dynamic, user-friendly layout in Google Sheets.
 
 
