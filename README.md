@@ -25,9 +25,13 @@ Built pivot tables to analyze:
 Dashboard Design:
 
 Created Scorecard Visuals: Compared opportunities won for the most recent quarter (2017-Q4) with the previous quarter (2017-Q3).
+
 Pie Chart: Showed the percentage of deals won and lost in the latest quarter.
+
 Bar Chart: Highlighted opportunities won by sales agents in the most recent quarter.
+
 Added Slicers: Enabled filtering by "regional office" and "manager."
+
 Organized visuals into a dynamic, user-friendly layout in Google Sheets.
 
 Results:
