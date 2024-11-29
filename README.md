@@ -30,7 +30,7 @@ Bar Chart: Highlighted opportunities won by sales agents in the most recent quar
 Added Slicers: Enabled filtering by "regional office" and "manager."
 Organized visuals into a dynamic, user-friendly layout in Google Sheets.
 
-Results
+Results:
 
 Enhanced decision-making efficiency by 25%.
 Improved visibility into quarterly performance for sales managers.
